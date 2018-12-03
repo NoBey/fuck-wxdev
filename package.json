@@ -1,0 +1,23 @@
+{
+  "name": "fuck-wxdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoBey/fuck-wxdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoBey/fuck-wxdev/issues"
+  },
+  "homepage": "https://github.com/NoBey/fuck-wxdev#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-proxy": "^0.9.0"
+  }
+}
